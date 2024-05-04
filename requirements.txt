@@ -1,0 +1,9 @@
+pandas 
+numpy 
+Matplotlib 
+seaborn 
+sklearn 
+geopandas  
+altair 
+pyspark 
+pycountry-convert
